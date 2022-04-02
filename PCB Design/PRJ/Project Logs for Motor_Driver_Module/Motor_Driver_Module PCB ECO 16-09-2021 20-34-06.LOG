@@ -1,0 +1,297 @@
+Added Component: Designator=C1(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "06031C103K4T4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "06031C103K4T4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=P1(D SUB 9PIN FEMALE 90C TH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "D SUB 9 PIN Female Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Number"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance(max)"; Value = "20mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current(max)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "DS1037-09FNAKT74"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "L-KLS1-213-09-M-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.77mm"; VariantName = "[No Variations]"
+Added Component: Designator=P2(D SUB 9PIN FEMALE 90C TH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "D SUB 9 PIN Female Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Number"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance(max)"; Value = "20mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current(max)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "DS1037-09FNAKT74"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "L-KLS1-213-09-M-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.77mm"; VariantName = "[No Variations]"
+Added Component: Designator=P3(MICRO USB B SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "MICRO USB B Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance(max)"; Value = "30mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current(max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "5UR2B01MF-105G0BUHR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "MICRO USB B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Row"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.65mm"; VariantName = "[No Variations]"
+Added Component: Designator=P4(3PIN MALE 180C TH 2.5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "CONN 3PIN MALE 180C TH 2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance(max)"; Value = "10mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current(max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "L-KLS1-2.50-03-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KLS ELECTRONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "L-KLS1-2.50-03-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Row"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=P5(3PIN MALE 180C TH 2.5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "CONN 3PIN MALE 180C TH 2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance(max)"; Value = "10mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current(max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "L-KLS1-2.50-03-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KLS ELECTRONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "L-KLS1-2.50-03-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Row"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=P6(3PIN MALE 180C TH 2.5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "CONN 3PIN MALE 180C TH 2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance(max)"; Value = "10mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current(max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "L-KLS1-2.50-03-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KLS ELECTRONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Connector"; Value = "L-KLS1-2.50-03-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Row"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW060310K0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Man Code"; Value = "CRCW06031K00FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "%1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(0.8mm Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(0.8mm Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(0.8mm Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(0.8mm Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(0.8mm Test Point)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=5V Pin=P5-1
+Added Pin To Net: NetName=5V Pin=P6-1
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Net: Name=GND
+Added Pin To Net: NetName=HALL_EFFECT Pin=C4-2
+Added Pin To Net: NetName=HALL_EFFECT Pin=R9-2
+Added Pin To Net: NetName=HALL_EFFECT Pin=TP4-1
+Added Net: Name=HALL_EFFECT
+Added Pin To Net: NetName=MCU_USB_N Pin=P3-2
+Added Net: Name=MCU_USB_N
+Added Pin To Net: NetName=MCU_USB_P Pin=P3-3
+Added Net: Name=MCU_USB_P
+Added Net: Name=MISO
+Added Net: Name=MOSI
+Added Pin To Net: NetName=MOTOR_TEMP Pin=C1-2
+Added Pin To Net: NetName=MOTOR_TEMP Pin=R6-2
+Added Pin To Net: NetName=MOTOR_TEMP Pin=TP1-1
+Added Net: Name=MOTOR_TEMP
+Added Net: Name=NetC6_2
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_1
+Added Net: Name=NetC8_2
+Added Net: Name=NetC15_2
+Added Net: Name=NetC16_2
+Added Net: Name=NetC17_2
+Added Net: Name=NetC18_1
+Added Net: Name=NetC18_2
+Added Net: Name=NetC20_2
+Added Net: Name=NetC21_2
+Added Net: Name=NetC22_1
+Added Net: Name=NetC22_2
+Added Net: Name=NetC23_1
+Added Net: Name=NetC23_2
+Added Net: Name=NetC26_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetD4_1
+Added Net: Name=NetD5_1
+Added Net: Name=NetD6_1
+Added Net: Name=NetD7_1
+Added Net: Name=NetD7_2
+Added Net: Name=NetD8_1
+Added Net: Name=NetD8_2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=R6-1
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=R7-1
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=R8-1
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP8_1 Pin=R9-1
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP9_1 Pin=R10-1
+Added Net: Name=NetP9_1
+Added Net: Name=NetR13_1
+Added Net: Name=NetR14_1
+Added Net: Name=NetR17_1
+Added Net: Name=NetR17_2
+Added Net: Name=NetR18_1
+Added Net: Name=NetR18_2
+Added Net: Name=NetR19_1
+Added Net: Name=NetR19_2
+Added Net: Name=NetR20_1
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=POT Pin=C2-2
+Added Pin To Net: NetName=POT Pin=R8-2
+Added Pin To Net: NetName=POT Pin=TP3-1
+Added Net: Name=POT
+Added Pin To Net: NetName=PWM Pin=C5-1
+Added Pin To Net: NetName=PWM Pin=R10-2
+Added Pin To Net: NetName=PWM Pin=TP5-1
+Added Net: Name=PWM
+Added Pin To Net: NetName=RS232_RX_1 Pin=P2-3
+Added Net: Name=RS232_RX_1
+Added Pin To Net: NetName=RS232_RX_3 Pin=P1-3
+Added Net: Name=RS232_RX_3
+Added Pin To Net: NetName=RS232_TX_1 Pin=P2-2
+Added Net: Name=RS232_TX_1
+Added Pin To Net: NetName=RS232_TX_3 Pin=P1-2
+Added Net: Name=RS232_TX_3
+Added Net: Name=S\S\
+Added Net: Name=SCK
+Added Pin To Net: NetName=SPEED_SENSE Pin=C3-2
+Added Pin To Net: NetName=SPEED_SENSE Pin=R7-2
+Added Pin To Net: NetName=SPEED_SENSE Pin=TP2-1
+Added Net: Name=SPEED_SENSE
+Added Net: Name=TEST_LED
+Added Net: Name=VIN
+Added Class: Name=Connectors
+Added Class: Name=MCU
+Added Class: Name=Peripheral
+Added Class: Name=Power
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

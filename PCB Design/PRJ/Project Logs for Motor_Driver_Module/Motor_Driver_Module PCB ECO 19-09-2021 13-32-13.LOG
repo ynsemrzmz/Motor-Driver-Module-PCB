@@ -1,0 +1,8 @@
+Added Component: Designator=MH?(3mm Mounting Hole)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "Mounting Hole"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Connectors Member=Component MH? 3mm Mounting Hole
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=S\S\ Pin=P10-1
+Removed Pin From Net: NetName=SCK Pin=P10-2
+Removed Pin From Net: NetName=MOSI Pin=P10-3
+Added Pin To Net: NetName=SCK Pin=P10-1
+Added Pin To Net: NetName=MOSI Pin=P10-2
+Added Pin To Net: NetName=S\S\ Pin=P10-3
+Added Room: Name=Connectors
+Added Room: Name=MCU
+Added Room: Name=Peripheral
+Added Room: Name=Power
